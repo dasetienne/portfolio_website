@@ -1,0 +1,51 @@
+.wrapper{ 
+	width: 1000px; 
+	height: 1200px;
+	margin: 0 auto; 
+	padding: 15px;
+	position: relative;
+
+}
+
+.header{
+	width: 1000px;
+	height: 70px;
+	background-color: #0062f1;
+	border-width: 2px;
+    border-bottom: 3px solid #257eff;
+
+}
+
+.subheader{
+	width: 1000px;
+	height: 70px;
+	background-color: #dae0e6;
+	border-bottom: 1px solid black;
+}
+
+.headline{ text-align: center;
+
+}
+
+.general
+
+.list{
+
+}
+
+.navigation{
+
+}
+
+.footer{
+
+	width: 1000px;
+	height: 140px;
+	background-color: #0062f1;
+	border-width: 2px;
+    border-top: 8px solid #257eff;
+    position: absolute;
+    bottom: 0;
+ 
+ }
+
