@@ -23,20 +23,6 @@
 	border-bottom: 1px solid black;
 }
 
-.headline{ text-align: center;
-
-}
-
-.general
-
-.list{
-
-}
-
-.navigation{
-
-}
-
 .footer{
 
 	width: 1000px;
@@ -48,4 +34,111 @@
     bottom: 0;
  
  }
+
+.columnleft{
+	width: 300px;
+	height: 750px;
+	float: left;
+	background-color: #A3DAE1;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	padding: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+
+}
+
+.columnright{
+	width: 640px;
+	height: 900px;
+	float: right;
+	background-color: #c6e2ff;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	border-radius: 25px;
+	padding: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	position: top;
+
+}
+
+.surfbanner{
+	margin-top: 70px;
+	display: block;
+    margin-left: 80px;
+    margin-right: auto
+		
+}
+
+.navigationbar
+		nav {
+			width: 100%;
+			background-color: none;
+		}
+
+		ul {
+			 position: absolute;
+    		top: 5px;
+    		left: 0;
+    		right: 0;
+    		bottom: 0;
+    		min-width: 800px;
+    		text-align: center;
+    		height: 20px;
+    		padding: 10px 20px;
+			list-style-type: none;
+			text-decoration: none;
+		}
+
+		ul li {
+			display: inline-block;
+			padding: 15px;
+			padding-left: 80px;
+			text-align: left;
+			text-decoration: none;
+		}
+
+/*.my-button:hover{
+	margin: 2px 0 0 2px
+}*/
+
+.navibar{
+	list-style: none;
+	padding: 0
+
+}
+
+.navilist{
+	display: inline;
+}
+
+.headline{ 
+	color: #1f477e;
+	text-align: left;
+	text-decoration: none;
+	margin-top: 60px;
+
+}
+
+.aboutphoto{
+	max-width: 600px;
+	height: 350px;
+	float: right;
+    border: 3px solid #257eff;
+    margin:10px;
+}
+
+.signature{
+	color: #1f477e;
+	text-align: right;
+	text-decoration: none;
+	margin-bottom: 60px;
+}
+
+
+
 

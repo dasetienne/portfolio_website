@@ -1,0 +1,13 @@
+Still to do...
+
+- Fix menu on top (at the moment hidden behind header)
+- Set up navigation components
+- Fill in logo
+- Surfline embed? (plus logo?)
+- Make pages scrollable (at the moment header limit the size of the columns)
+- Create logo (simple hashtag with a bit of style)
+- Create button
+- Check corners and design of social media embed (#surfjitsu on instagram or something like that)
+- Resize frontpage for boardshorts banner
+- Style Instagram button
+- 
