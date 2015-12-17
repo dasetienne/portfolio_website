@@ -1,4 +1,4 @@
-.wrapper{ 
+.wrapper { 
 	width: 1000px; 
 	height: 1200px;
 	margin: 0 auto; 
@@ -7,7 +7,7 @@
 
 }
 
-.header{
+.header {
 	width: 1000px;
 	height: 70px;
 	background-color: #0062f1;
@@ -16,14 +16,14 @@
 
 }
 
-.subheader{
+.subheader {
 	width: 1000px;
 	height: 70px;
 	background-color: #dae0e6;
 	border-bottom: 1px solid black;
 }
 
-.footer{
+.footer {
 
 	width: 1000px;
 	height: 140px;
@@ -35,7 +35,7 @@
  
  }
 
-.columnleft{
+.columnleft {
 	width: 300px;
 	height: 750px;
 	float: left;
@@ -50,7 +50,7 @@
 
 }
 
-.columnright{
+.columnright {
 	width: 640px;
 	height: 900px;
 	float: right;
@@ -66,7 +66,7 @@
 
 }
 
-.surfbanner{
+.surfbanner {
 	margin-top: 70px;
 	display: block;
     margin-left: 80px;
@@ -75,48 +75,54 @@
 }
 
 .navigationbar
-		nav {
-			width: 100%;
-			background-color: none;
-		}
+nav {
+	width: 100%;
+	background-color: none;
+}
 
-		ul {
-			 position: absolute;
-    		top: 5px;
-    		left: 0;
-    		right: 0;
-    		bottom: 0;
-    		min-width: 800px;
-    		text-align: center;
-    		height: 20px;
-    		padding: 10px 20px;
-			list-style-type: none;
-			text-decoration: none;
-		}
+ul {
+	position: absolute;
+	top: 5px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	min-width: 800px;
+	text-align: center;
+	height: 20px;
+	padding: 10px 20px;
+	list-style-type: none;
+	text-decoration: none;
+}
 
-		ul li {
-			display: inline-block;
-			padding: 15px;
-			padding-left: 80px;
-			text-align: left;
-			text-decoration: none;
-		}
+ul li {
+	display: inline-block;
+	padding: 15px;
+	padding-left: 80px;
+	text-align: left;
+	text-decoration: none;
+}
+
+li a {
+	text-decoration: none;
+
+
+}
 
 /*.my-button:hover{
 	margin: 2px 0 0 2px
-}*/
+	}*/
 
-.navibar{
+.navibar {
 	list-style: none;
 	padding: 0
 
 }
 
-.navilist{
+.navilist {
 	display: inline;
 }
 
-.headline{ 
+.headline { 
 	color: #1f477e;
 	text-align: left;
 	text-decoration: none;
@@ -124,7 +130,7 @@
 
 }
 
-.aboutphoto{
+.aboutphoto {
 	max-width: 600px;
 	height: 350px;
 	float: right;
@@ -132,7 +138,7 @@
     margin:10px;
 }
 
-.signature{
+.signature {
 	color: #1f477e;
 	text-align: right;
 	text-decoration: none;
