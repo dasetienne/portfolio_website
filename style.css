@@ -67,10 +67,10 @@
 }
 
 .surfbanner {
-	margin-top: 70px;
-	display: block;
-    margin-left: 80px;
-    margin-right: auto
+	margin-bottom: 200px;
+    margin-left: 10px;
+    margin-right: auto;
+    top: -800px;
 		
 }
 
@@ -108,25 +108,29 @@ li a {
 
 }
 
-/*.my-button:hover{
-	margin: 2px 0 0 2px
-	}*/
-
-.navibar {
-	list-style: none;
-	padding: 0
-
-}
-
-.navilist {
-	display: inline;
-}
 
 .headline { 
 	color: #1f477e;
 	text-align: left;
 	text-decoration: none;
 	margin-top: 60px;
+
+}
+
+.headline2 { 
+	color: #1f477e;
+	text-align: left;
+	text-decoration: none;
+	margin-top: 40px;
+
+}
+
+.headline3 {
+
+	color: #1f477e;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 40px;
 
 }
 
@@ -145,6 +149,41 @@ li a {
 	margin-bottom: 60px;
 }
 
+
+.columngen {
+	width: 1000px;
+	height: 900px;
+	float: right;
+	background-color: #c6e2ff;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	border-radius: 25px;
+	padding: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	position: top;
+
+}
+
+.bestspots {
+	width: 600px;
+	height: 200px;
+	margin-left: 40px;	
+	background-color: #9ffff7;
+	border-radius: 40px;
+
+}
+
+.bestspotstext {
+	margin-left: 1px
+}
+
+.link {
+	text-decoration: none;
+}
+
+/*Link class is not working yet, link is still underscored. */
 
 
 

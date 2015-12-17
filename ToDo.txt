@@ -9,5 +9,4 @@ Still to do...
 - Create button
 - Check corners and design of social media embed (#surfjitsu on instagram or something like that)
 - Resize frontpage for boardshorts banner
-- Style Instagram button
-- 
+=999
