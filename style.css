@@ -188,5 +188,14 @@ li a {
 	text-decoration: none;
 }
 
+.location {
+	top: 00px;
+	right:620px;
+	float: right;
+	margin-right: 30px;
+}
+
+/*div location works but has to be re worked. Have to find exact position for vids */
+
 
 
